@@ -1,0 +1,14 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-content__picture {
+  background-color: darkcyan;
+}
+
+.main-content__icons {
+  background-color: darkgoldenrod;
+}
