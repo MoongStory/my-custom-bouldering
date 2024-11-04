@@ -5,6 +5,10 @@
   align-items: center;
 }
 
+.main-content__settings {
+  background-color: darkgray;
+}
+
 .main-content__picture {
   background-color: darkcyan;
 }
